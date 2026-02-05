@@ -12,6 +12,6 @@ namespace Teste.Models
         [Required]
         public  int idade { get; set; }
 
-        public ICollection<Transacao> transacaos { get; set; } = new List<Transacao>();
+        public ICollection<Transacao> Transacoes { get; set; } = new List<Transacao>();
     }
 }
