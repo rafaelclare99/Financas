@@ -18,7 +18,7 @@ namespace Teste.Models
 
         public int PessoaId { get; set; }
 
-        public int CategoriaId { get; set; }1
+        public int CategoriaId { get; set; }
 
 
     }
